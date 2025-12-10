@@ -1,6 +1,5 @@
-# projeto1
-projeto usado para intruducao a programacao e autoria web, que e eu irei falar sobre uma empresa de motocicleta
+motocicletas, harley-davidson
 
+projeto usado para intruducao a programacao e autoria web, que eu irei desenvolver um site em que vou descrever alguns modelos de harley-davidson. 
 
-No projeto eu irei falar sobre uma empresa de motocicletas honda, em que irei mostrar algumas informacoes, e curiosidade sobre a empresa.
-Como a primeira moto criada pela empresa, aonde ela foi fundada, motivos da fundacao, quem foi o fundador, qual moto foi mais comprada.
+no projeto eu irei dizer um pouco dos modelos da marca de moto harley-davidson, dizer algumas caracteriscas. detalhar agumas informacoes para que o comprador copreenda um pouco da historia, o quais as principais pecas, tipos de combustivel que motocicleta usa, dizer os modelos mais vendidos e procurado.
